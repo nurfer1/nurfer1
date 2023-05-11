@@ -1,5 +1,5 @@
 
-![Uploading IOS Developer.png…]()
+<img src="https://github.com/nurfer1/nurfer1/blob/main/IOS%20Developer.png" width="auto">
 # 💫 About Me:
 
 Hello, my name is Sude Nurfer. I am a 2nd year student studying MIS at Istinye University. I am also an active student at 42 Istanbul, a software school affiliated with the Turkish Open Source Platform. In addition to strengthening my coding and algorithm skills, I also develop my teamwork and research skills in 42 Istanbul. I've been improving my skills in Swift for almost 1 year.
